@@ -17,3 +17,4 @@ spec:
           image: admin13.azurecr.io/monolith
           ports:
             - containerPort: 8080
+ 
